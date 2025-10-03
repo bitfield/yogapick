@@ -7,7 +7,6 @@ import (
 	"math/rand"
 	"os"
 	"strings"
-
 )
 
 //go:embed poses_default.txt
